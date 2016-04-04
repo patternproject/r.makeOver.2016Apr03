@@ -1,0 +1,101 @@
+City,State,Citywide Diversity Index,Neighborhood Diversity Index,Integration / Segregation Index
+Anchorage,AK,0.57,0.54,0.08
+Birmingham,AL,0.41,0.27,-0.07
+Chandler,AZ,0.56,0.51,0.07
+Glendale,AZ,0.60,0.50,0.02
+Mesa,AZ,0.51,0.44,0.03
+Phoenix,AZ,0.61,0.45,-0.03
+Scottsdale,AZ,0.29,0.27,0.03
+Tucson,AZ,0.60,0.48,0.01
+Anaheim,CA,0.62,0.54,0.05
+Bakersfield,CA,0.64,0.56,0.06
+Chula Vista,CA,0.59,0.56,0.09
+Fremont,CA,0.61,0.57,0.09
+Fresno,CA,0.67,0.58,0.07
+Irvine,CA,0.60,0.59,0.11
+Long Beach,CA,0.71,0.59,0.04
+Los Angeles,CA,0.66,0.47,-0.05
+Oakland,CA,0.75,0.61,0.04
+Riverside,CA,0.63,0.56,0.06
+Sacramento,CA,0.74,0.67,0.10
+San Bernardino,CA,0.58,0.53,0.07
+San Diego,CA,0.68,0.52,-0.01
+San Francisco,CA,0.67,0.57,0.04
+San Jose,CA,0.69,0.57,0.03
+Santa Ana,CA,0.37,0.31,0.00
+Stockton,CA,0.72,0.64,0.09
+Aurora,CO,0.66,0.60,0.08
+Colorado Springs,CO,0.47,0.43,0.05
+Denver,CO,0.61,0.46,-0.02
+Washington,DC,0.61,0.37,-0.11
+Hialeah,FL,0.10,0.10,0.01
+Jacksonville,FL,0.59,0.47,0.00
+Miami,FL,0.47,0.29,-0.09
+Orlando,FL,0.69,0.51,-0.02
+St. Petersburg,FL,0.52,0.36,-0.06
+Tampa,FL,0.66,0.50,-0.01
+Atlanta,GA,0.57,0.31,-0.15
+Honolulu,HI,0.41,0.36,0.03
+Chicago,IL,0.70,0.36,-0.19
+Fort Wayne,IN,0.47,0.37,-0.01
+Indianapolis,IN,0.56,0.42,-0.03
+Wichita,KS,0.54,0.45,0.02
+Lexington,KY,0.44,0.38,0.03
+Louisville,KY,0.47,0.33,-0.05
+Baton Rouge,LA,0.55,0.33,-0.11
+New Orleans,LA,0.54,0.33,-0.10
+Boston,MA,0.68,0.50,-0.03
+Baltimore,MD,0.50,0.30,-0.11
+Detroit,MI,0.29,0.18,-0.07
+Minneapolis,MN,0.58,0.48,0.02
+St. Paul,MN,0.62,0.53,0.04
+Kansas City,MO,0.59,0.40,-0.07
+St. Louis,MO,0.57,0.34,-0.11
+Charlotte,NC,0.65,0.50,-0.01
+Durham,NC,0.66,0.54,0.02
+Greensboro,NC,0.61,0.44,-0.04
+Raleigh,NC,0.61,0.49,0.01
+Winston-Salem,NC,0.63,0.49,-0.01
+Lincoln,NE,0.30,0.29,0.03
+Omaha,NE,0.50,0.37,-0.03
+Jersey City,NJ,0.76,0.63,0.06
+Newark,NJ,0.62,0.41,-0.07
+Albuquerque,NM,0.60,0.52,0.05
+Henderson,NV,0.49,0.48,0.08
+Las Vegas,NV,0.65,0.55,0.04
+North Las Vegas,NV,0.70,0.62,0.08
+Paradise,NV,0.67,0.62,0.10
+Reno,NV,0.54,0.48,0.05
+Buffalo,NY,0.63,0.41,-0.08
+New York,NY,0.73,0.48,-0.09
+Rochester,NY,0.66,0.52,0.01
+Cincinnati,OH,0.55,0.38,-0.06
+Cleveland,OH,0.59,0.36,-0.11
+Columbus,OH,0.56,0.43,-0.02
+Toledo,OH,0.53,0.40,-0.03
+Oklahoma City,OK,0.62,0.50,0.01
+Tulsa,OK,0.61,0.50,0.02
+Portland,OR,0.46,0.43,0.06
+Philadelphia,PA,0.66,0.39,-0.13
+Pittsburgh,PA,0.50,0.35,-0.05
+Memphis,TN,0.51,0.32,-0.09
+Nashville,TN,0.59,0.45,-0.01
+Arlington,TX,0.68,0.59,0.06
+Austin,TX,0.63,0.50,0.01
+Corpus Christi,TX,0.53,0.44,0.02
+Dallas,TX,0.67,0.45,-0.07
+El Paso,TX,0.33,0.29,0.02
+Fort Worth,TX,0.67,0.52,-0.01
+Garland,TX,0.69,0.62,0.08
+Houston,TX,0.68,0.48,-0.05
+Irving,TX,0.70,0.60,0.06
+Laredo,TX,0.08,0.08,0.01
+Lubbock,TX,0.58,0.48,0.02
+Plano,TX,0.60,0.54,0.07
+San Antonio,TX,0.52,0.43,0.00
+Chesapeake,VA,0.54,0.44,0.01
+Norfolk,VA,0.61,0.46,-0.01
+Virginia Beach,VA,0.53,0.48,0.05
+Seattle,WA,0.52,0.45,0.03
+Madison,WI,0.41,0.38,0.04
+Milwaukee,WI,0.66,0.39,-0.13
